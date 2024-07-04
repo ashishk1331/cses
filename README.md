@@ -12,3 +12,8 @@
 - Gray Code
 - Creating Strings
 - Distinct Numbers
+- Nearest Smaller Values
+- Apartments
+- Restuarant Customers
+- Playlist
+- Subarray Sum I
